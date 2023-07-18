@@ -6,68 +6,68 @@
 */
 
 /* Solution Categories*/
-"faq_title_text"="FAQs";
-"faq_close_button_text"="Close";
-"contact_us_button_text"="Message Us";
-"faq_feature_not_enabled_text"="FAQ feature is disabled";
+"faq_title_text"="Preguntas Frecuentes";
+"faq_close_button_text"="Cerrar";
+"contact_us_button_text"="Mandanos un Mensaje";
+"faq_feature_not_enabled_text"="Preguntas Frecuentes deshabilitadas";
 
 /* Article UpVote DownVote */
-"article_vote_prompt_text"="Did we address your concerns?";
-"article_vote_prompt_yes_button_text"="Yes";
+"article_vote_prompt_text"="¿Resolvimos tu problema?";
+"article_vote_prompt_yes_button_text"="Sí";
 "article_vote_prompt_no_button_text"="No";
 
 /* Article Vote thank you prompt */
-"thank_you_prompt_text"="Thanks for your feedback!";
-"thank_you_prompt_contact_us_button_text"="Still looking for help? Talk to us";
+"thank_you_prompt_text"="¡Gracias por tus comentarios!";
+"thank_you_prompt_contact_us_button_text"="¿Aun necesitas ayuda? Contactanos";
 
 /* Article Detail */
-"offline_missing_content_text"="Please connect to the internet to view media content available on this article.";
+"offline_missing_content_text"="Por favor conectate a internet para ver el contenido disponible en este artículo.";
 
 /* No Internet Connectivity */
-"offline_internet_message"="Uh-uh. No internet connection";
+"offline_internet_message"="Sin conexión a internet";
 
 /*Channels*/
-"channels_title_text"="Conversations";
-"channels_close_button_text"="Close";
-"channels_feature_not_enabled_text"="Conversation feature is disabled";
+"channels_title_text"="Conversaciones";
+"channels_close_button_text"="Cerrar";
+"channels_feature_not_enabled_text"="Conversaciones deshabilitadas";
 
 /*Restoring view*/
-"restore_close_button_text"="Close";
+"restore_close_button_text"="Cerrar";
 
 /* Message UI */
-"message_placeholder_text" = "Type a message";
-"messages_close_button_text"="Close";
-"send_button_text"="Send";
-"messages_agent_label_text"="Support";
-"default_action_button_text"="View";
-"default_video_button_text"="Watch Video";
-"default_file_button_text"="Open File";
+"message_placeholder_text" = "Escribe un mensaje";
+"messages_close_button_text"="Cerrar";
+"send_button_text"="Enviar";
+"messages_agent_label_text"="Soporte";
+"default_action_button_text"="Ver";
+"default_video_button_text"="Ver Video";
+"default_file_button_text"="Abrir Archivo";
 
 
-"audio_message_title"="Audio message";
-"picture_message_title"="Image";
-"picture_message_upload_error"="Error loading image. Image not found";
+"audio_message_title"="Mensaje de voz";
+"picture_message_title"="Imágen";
+"picture_message_upload_error"="Error al cargar imágen. Imágen no encontrada";
 
-"audio_recording"="Audio Recording";
-"audio_recording_stopped"="Recording Stopped";
-"audio_recording_permission_denied"="Permission missing. Please enable Microphone permission under Settings.";
+"audio_recording"="Grabando Audio";
+"audio_recording_stopped"="Grabación Detenida";
+"audio_recording_permission_denied"="Permiso faltante. Por favor habilita el permiso del Microfono en Ajustes.";
 
-"cancel_audio_recording_alert"="Are you sure you want to cancel recording?";
+"cancel_audio_recording_alert"="¿Estás seguro/a de cancelar la grabación?";
 
-"message_unsent_title"="Your message was not sent";
-"message_unsent_info_text"="We were unable to send your message(s) at this time. Check internet or try again later";
-"server_error_info_text"="Problem sending message. Please try again later.";
+"message_unsent_title"="Tu mensaje no fue enviado";
+"message_unsent_info_text"="No pudimos enviar tu(s) mensaje(s) en este momento. Por favor revisa tu conexión a internet e intenta de nuevo";
+"server_error_info_text"="Ocurrió un problema al enviar el mensaje, por favor intenta de nuevo más tarde.";
 
 /* Account delete messages for actions*/
 "error_message_account_not_active_text" = "This section is no longer available";
-"error_message_account_not_active_cancel" = "Cancel";
+"error_message_account_not_active_cancel" = "Cancelar";
 
 /* Posting audio message alerts */
-"short_audio_alert_title" = "Your message is too short.";
-"short_audio_alert_description_text" = "The audio recording is too short. Please try again";
-"long_audio_alert_title" = "Too long don't you think?";
-"long_audio_alert_description_text" = "Your audio message is more than 2 minutes long. Sure you want to send?";
-"long_audio_alert_post_button_text" = "Send it";
+"short_audio_alert_title" = "Tu mensaje es muy corto.";
+"short_audio_alert_description_text" = "El mensaje de voz es muy corto, por favor intenta de nuevo.";
+"long_audio_alert_title" = "Es muy largo, ¿no lo crees?";
+"long_audio_alert_description_text" = "Tu mensaje de voz dura más de 2 minutos, ¿estás seguro/a de mandarlo?";
+"long_audio_alert_post_button_text" = "Enviarlo";
 
 /* Search View Place Holder */
 "search_placeholder_text"="Search FAQs";
@@ -79,40 +79,40 @@
 "loading_faq_text" = "Loading FAQs";
 
 /* Camera Unavailable alert */
-"camera_unavailable_title"="Your camera is unavailable";
-"camera_unavailable_description"="Oopsie! Your device doesn't have a camera or the camera is not available for use";
-"camera_unavailable_ok_button_text"="OK";
-"camera_permission_denied" ="Camera permissions is required to capture pictures";
-"photo_library_permission_denied" ="Photo library permission is required access photos";
-"camera_permission_alert_cancel" ="Cancel";
-"photo_library_permission_alert_cancel" ="Cancel";
+"camera_unavailable_title"="Tu camara no está disponible";
+"camera_unavailable_description"="Tu dispositivo no tiene camara o esta no esta lista para ser utilizada";
+"camera_unavailable_ok_button_text"="Aceptar";
+"camera_permission_denied" ="Los permisos para la Camara son necesarios para tomar fotos";
+"photo_library_permission_denied" ="El permiso para acceder a tu librería de imágenes es necesario";
+"camera_permission_alert_cancel" ="Cancelar";
+"photo_library_permission_alert_cancel" ="Cancelar";
 
 /* Picture attached*/
-"pic_msg_attachment_close_btn"="Back";
-"pic_msg_attachment_title_text"="Picture";
+"pic_msg_attachment_close_btn"="Regresar";
+"pic_msg_attachment_title_text"="Imágen";
 
 /*Image Attachment*/
-"image_attachment_cancel_button_text"="Cancel";
-"image_attachment_select_existing_image"="Upload from gallery";
-"image_attachment_select_new_image"="Take a picture";
+"image_attachment_cancel_button_text"="Cancelar";
+"image_attachment_select_existing_image"="Subir desde la galería";
+"image_attachment_select_new_image"="Tomar una foto";
 
 
 /*Notifications*/
-"notification_message_default"="You've got a message!";
+"notification_message_default"="¡Recibiste un mensaje!";
 
 /* Customer Satisfaction Survey */
 
 /* Yes No Prompt */
-"chat_resolution_prompt_text"="Were all your concerns addressed? ";
-"chat_resolution_prompt_yes_button_text"="Yes!";
+"chat_resolution_prompt_text"="¿Se resolvieron tus problemas? ";
+"chat_resolution_prompt_yes_button_text"="Sí";
 "chat_resolution_prompt_no_button_text"="No";
 
 "chat_resolution_survey_question_text"="";
 
 /* Survey prompt */
-"cust_sat_not_resolved_prompt"="How could we have helped you better?";
-"cust_sat_user_comments_placeholder"="Additional feedback";
-"cust_sat_submit_button_text"="Send";
+"cust_sat_not_resolved_prompt"="¿Cómo podemos mejorar?";
+"cust_sat_user_comments_placeholder"="Comentarios adicionales";
+"cust_sat_submit_button_text"="Enviar";
 
 /* Message time format */
 "chat_message_time_today"="hh:mm a";
@@ -121,18 +121,18 @@
 "chat_message_time_other_year"="MMM YYYY";
 
 /* Typically replies */
-"typically_replies_within_a_minute"="Typically replies within a minute";
-"typically_replies_within_x_minutes"="Typically replies within";
-"typically_replies_within_an_hour"="Typically replies within an hour";
-"typically_replies_within_2_hours"="Typically replies within 2 hours";
-"typically_replies_within_few_hours"="Typically replies within few hours";
+"typically_replies_within_a_minute"="Por lo general responde en menos de un minuto";
+"typically_replies_within_x_minutes"="Por lo general responde en menos de";
+"typically_replies_within_an_hour"="Por lo general responde en menos de una hora";
+"typically_replies_within_2_hours"="Por lo general responde en menos de 2 horas";
+"typically_replies_within_few_hours"="Por lo general responde en unas cuantas horas";
 
-"placeholder_minutes"="minutes";
+"placeholder_minutes"="minutos";
 
 /*Average replies */
-"currently_replying_in_a_minute" = "Currently replying in a minute";
-"currently_replying_in_x_minutes"="Currently replying in";
-"currently_replying_in_an_hour"="Currently replying in an hour";
-"currently_replying_in_2_hours"="Currently replying in 2 hours";
-"currently_replying_in_few_hours"="Currently replying in few hours";
+"currently_replying_in_a_minute" = "Actualmente responde en un minuto";
+"currently_replying_in_x_minutes"="Actualmente responde en";
+"currently_replying_in_an_hour"="Actualmente respondee en una hora";
+"currently_replying_in_2_hours"="Actualmente responde en 2 horas";
+"currently_replying_in_few_hours"="Actualmente responde en unas cuantas horas";
 
