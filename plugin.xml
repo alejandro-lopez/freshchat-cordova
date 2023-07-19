@@ -84,8 +84,8 @@
         
         <!-- Resources -->
         <!-- <resource-file src="src/ios/FreshchatSDK/FreshchatModels.bundle" target-dir="FreshchatiOSPlugin"/>
-        <resource-file src="src/ios/FreshchatSDK/FCResources.bundle" target-dir="FreshchatiOSPlugin"/>
-        <resource-file src="src/ios/FreshchatSDK/FCLocalization.bundle" target-dir="FreshchatiOSPlugin"/> -->
+        <resource-file src="src/ios/FreshchatSDK/FCResources.bundle" target-dir="FreshchatiOSPlugin"/>-->
+        <resource-file src="src/ios/FreshchatSDK/FCLocalization.bundle" target-dir="FreshchatiOSPlugin"/>
 
 
 
