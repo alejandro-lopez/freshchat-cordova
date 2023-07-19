@@ -81,8 +81,8 @@
 "search_empty_result_text"="Whoops! We couldn't find what you were looking for.";
 "empty_channel_text" = "Oops, no messages here!";
 "empty_faq_text" = "Sorry! There are no FAQs available";
-"loading_channel_text" = "Loading Messages";
-"restoring_channel_text" = "Restoring Messages";
+"loading_channel_text" = "Cargando mensajes";
+"restoring_channel_text" = "Restaurando mensajes";
 "loading_faq_text" = "Cargando Preguntas Frecuentes";
 
 "min_character_search_text" = "Se necesitan un minimo de 3 caracteres para buscar";
@@ -107,11 +107,12 @@
 "pic_msg_attachment_title_text"="Imágen";
 
 /*Image Attachment*/
+"msg_attachment_prompt_title"="Tamaño máximo de archivos es de 20MB";
 "image_attachment_cancel_button_text"="Cancelar";
 "image_attachment_select_existing_image"="Subir desde la galería";
 "image_attachment_select_new_image"="Tomar una foto";
 "image_attachment_select_new_image"="Tomar una foto";
-"file_attachment_browse_files"="Examinar archivos";
+"file_attachment_browse_files"="Examinar archivos...";
 
 /*Notifications*/
 "notification_message_default"="¡Recibiste un mensaje!";
